@@ -1,2 +1,2 @@
-chaser_speed = 3.5;
+chaser_speed = 2;
 alarm[0] = 800;

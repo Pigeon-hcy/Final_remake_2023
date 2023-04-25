@@ -1,1 +1,1 @@
-chaser_speed = 8.5;
+chaser_speed = 5;
