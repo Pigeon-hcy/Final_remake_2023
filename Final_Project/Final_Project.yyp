@@ -41,6 +41,7 @@
   "resources": [
     {"id":{"name":"Spr_fly","path":"sprites/Spr_fly/Spr_fly.yy",},},
     {"id":{"name":"Obj_Sleep_Enemy","path":"objects/Obj_Sleep_Enemy/Obj_Sleep_Enemy.yy",},},
+    {"id":{"name":"Obj_chase","path":"objects/Obj_chase/Obj_chase.yy",},},
     {"id":{"name":"Spr_wall","path":"sprites/Spr_wall/Spr_wall.yy",},},
     {"id":{"name":"Obj_blocker","path":"objects/Obj_blocker/Obj_blocker.yy",},},
     {"id":{"name":"PS_Start_Ps","path":"particles/PS_Start_Ps/PS_Start_Ps.yy",},},
@@ -67,6 +68,7 @@
     {"id":{"name":"PS_Hit","path":"particles/PS_Hit/PS_Hit.yy",},},
     {"id":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},},
     {"id":{"name":"Obj_jump","path":"objects/Obj_jump/Obj_jump.yy",},},
+    {"id":{"name":"Spr_chase","path":"sprites/Spr_chase/Spr_chase.yy",},},
     {"id":{"name":"Spr_blocker","path":"sprites/Spr_blocker/Spr_blocker.yy",},},
     {"id":{"name":"Obj_admove","path":"objects/Obj_admove/Obj_admove.yy",},},
     {"id":{"name":"Spr_testtile","path":"sprites/Spr_testtile/Spr_testtile.yy",},},
@@ -86,8 +88,8 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Rm_white_house_runaway","path":"rooms/Rm_white_house_runaway/Rm_white_house_runaway.yy",},},
-    {"roomId":{"name":"Rm_white_house","path":"rooms/Rm_white_house/Rm_white_house.yy",},},
     {"roomId":{"name":"Rm_trainning_room","path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},},
+    {"roomId":{"name":"Rm_white_house","path":"rooms/Rm_white_house/Rm_white_house.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "TextureGroups": [

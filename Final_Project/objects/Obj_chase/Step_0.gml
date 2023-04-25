@@ -1,0 +1,1 @@
+x -= chaser_speed;
