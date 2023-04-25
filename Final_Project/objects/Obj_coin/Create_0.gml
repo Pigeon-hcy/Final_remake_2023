@@ -1,0 +1,1 @@
+self.part_system = part_system_create(PS_Start_Ps);
