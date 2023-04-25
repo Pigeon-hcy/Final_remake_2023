@@ -51,6 +51,7 @@
     {"name":"Spr_enemy_attack","order":1,"path":"sprites/Spr_enemy_attack/Spr_enemy_attack.yy",},
     {"name":"Rm_trainning_room","order":1,"path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},
     {"name":"PS_Circle","order":2,"path":"particles/PS_Circle/PS_Circle.yy",},
+    {"name":"fnt_fanglin_test","order":1,"path":"fonts/fnt_fanglin_test/fnt_fanglin_test.yy",},
     {"name":"Rm_white_house_runaway","order":3,"path":"rooms/Rm_white_house_runaway/Rm_white_house_runaway.yy",},
     {"name":"Spr_qeshoot","order":14,"path":"sprites/Spr_qeshoot/Spr_qeshoot.yy",},
     {"name":"Rm_white_house","order":2,"path":"rooms/Rm_white_house/Rm_white_house.yy",},

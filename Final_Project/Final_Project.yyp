@@ -76,6 +76,7 @@
     {"id":{"name":"Rm_trainning_room","path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},},
     {"id":{"name":"PS_Circle","path":"particles/PS_Circle/PS_Circle.yy",},},
     {"id":{"name":"Spr_platform","path":"sprites/Spr_platform/Spr_platform.yy",},},
+    {"id":{"name":"fnt_fanglin_test","path":"fonts/fnt_fanglin_test/fnt_fanglin_test.yy",},},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"Rm_white_house_runaway","path":"rooms/Rm_white_house_runaway/Rm_white_house_runaway.yy",},},
     {"id":{"name":"Spr_qeshoot","path":"sprites/Spr_qeshoot/Spr_qeshoot.yy",},},
