@@ -1,1 +1,2 @@
-# Final_remake_2023
+# 2023-intro-dev-final-project
+The final project
