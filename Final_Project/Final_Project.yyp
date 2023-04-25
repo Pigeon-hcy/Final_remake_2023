@@ -84,6 +84,7 @@
     {"id":{"name":"fnt_fanglin_test","path":"fonts/fnt_fanglin_test/fnt_fanglin_test.yy",},},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"Spr_qeshoot","path":"sprites/Spr_qeshoot/Spr_qeshoot.yy",},},
+    {"id":{"name":"Obj_distance","path":"objects/Obj_distance/Obj_distance.yy",},},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},},
     {"id":{"name":"Rm_white_house","path":"rooms/Rm_white_house/Rm_white_house.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

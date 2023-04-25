@@ -58,6 +58,7 @@
     {"name":"PS_Circle","order":2,"path":"particles/PS_Circle/PS_Circle.yy",},
     {"name":"fnt_fanglin_test","order":1,"path":"fonts/fnt_fanglin_test/fnt_fanglin_test.yy",},
     {"name":"Spr_qeshoot","order":14,"path":"sprites/Spr_qeshoot/Spr_qeshoot.yy",},
+    {"name":"Obj_distance","order":16,"path":"objects/Obj_distance/Obj_distance.yy",},
     {"name":"Rm_white_house","order":2,"path":"rooms/Rm_white_house/Rm_white_house.yy",},
   ],
 }
