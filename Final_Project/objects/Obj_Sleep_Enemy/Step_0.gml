@@ -9,7 +9,7 @@ if(distanceToPlayer < 450)
 	notice = true;
 }else
 {
-	notice = false
+	notice = false;
 }
 
 //if player get too close start move
@@ -18,16 +18,19 @@ if(distanceToPlayer < 200)
 	follow = true;
 }else
 {
-	follow = false
+	follow = false;
 }
 
 //change the direction depend on the angle of player
 if(directionToPlayer < 270 && directionToPlayer > 90)
 {
 	move_speed = -4;
+	image_xscale = -1/7
+	
 }else
 {
 	move_speed = 4;
+	image_xscale = 1/7
 }
 
 //change the notice spr

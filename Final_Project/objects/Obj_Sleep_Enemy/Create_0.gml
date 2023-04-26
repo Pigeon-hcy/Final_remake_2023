@@ -15,3 +15,6 @@ move_speed = 3;
 //health of the enemy
 HP = 5;
 
+//sprite scale
+image_xscale = 1/7
+image_yscale = 1/7
