@@ -16,6 +16,11 @@ if(distanceToPlayer < 450)
 if(distanceToPlayer < 200)
 {
 	follow = true;
+	if(!played)
+	{
+		audio_play_sound(Snd_notice,20,false)
+		played = true;
+	}
 }else
 {
 	follow = false;
@@ -43,6 +48,7 @@ if(notice)
 //change back if player leave
 if(!notice)
 {
+	played = false;
 	sprite_index = Spr_enemy;
 }
 
@@ -57,6 +63,7 @@ if(follow && !place_meeting(x + move_speed,y,Obj_wall)
 //trigger something when hp is lower than 0
 if(HP < 0)
 {
+	audio_play_sound(Snd_explode,20,false);
 	Obj_shake.time = 10;
 	instance_destroy();
 }

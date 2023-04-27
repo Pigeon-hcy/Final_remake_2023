@@ -16,5 +16,7 @@ move_speed = 3;
 HP = 5;
 
 //sprite scale
-image_xscale = 1/5
-image_yscale = 1/5
+image_xscale = 1/7
+image_yscale = 1/7
+
+played = false;

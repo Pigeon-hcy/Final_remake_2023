@@ -37,7 +37,10 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"left_speed","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"-2","varType":0,},
   ],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_fly",
+    "path": "sprites/Spr_fly/Spr_fly.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
