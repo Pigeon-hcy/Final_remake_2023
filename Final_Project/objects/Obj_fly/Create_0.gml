@@ -6,3 +6,7 @@ alarm[0] = left_time;
 on_hit = false;
 //health
 HP = 7;
+
+//sprite
+image_xscale = 1/6
+image_yscale = 1/6

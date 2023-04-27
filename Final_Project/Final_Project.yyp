@@ -39,7 +39,6 @@
     "IDEVersion": "2023.2.1.75",
   },
   "resources": [
-    {"id":{"name":"Spr_fly","path":"sprites/Spr_fly/Spr_fly.yy",},},
     {"id":{"name":"Obj_Sleep_Enemy","path":"objects/Obj_Sleep_Enemy/Obj_Sleep_Enemy.yy",},},
     {"id":{"name":"Obj_chase","path":"objects/Obj_chase/Obj_chase.yy",},},
     {"id":{"name":"Spr_wall","path":"sprites/Spr_wall/Spr_wall.yy",},},
@@ -65,6 +64,7 @@
     {"id":{"name":"Spr_enemy_attack","path":"sprites/Spr_enemy_attack/Spr_enemy_attack.yy",},},
     {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},},
     {"id":{"name":"Snd_run","path":"sounds/Snd_run/Snd_run.yy",},},
+    {"id":{"name":"Spr_fly","path":"sprites/Spr_fly/Spr_fly.yy",},},
     {"id":{"name":"PS_10_Score","path":"particles/PS_10_Score/PS_10_Score.yy",},},
     {"id":{"name":"Spr_office","path":"sprites/Spr_office/Spr_office.yy",},},
     {"id":{"name":"Snd_explode","path":"sounds/Snd_explode/Snd_explode.yy",},},

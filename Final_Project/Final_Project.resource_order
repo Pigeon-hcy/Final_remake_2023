@@ -42,6 +42,7 @@
     {"name":"obj_nut_manager","order":14,"path":"objects/obj_nut_manager/obj_nut_manager.yy",},
     {"name":"Spr_enemy_attack","order":3,"path":"sprites/Spr_enemy_attack/Spr_enemy_attack.yy",},
     {"name":"Snd_run","order":4,"path":"sounds/Snd_run/Snd_run.yy",},
+    {"name":"Spr_fly","order":5,"path":"sprites/Spr_fly/Spr_fly.yy",},
     {"name":"PS_10_Score","order":3,"path":"particles/PS_10_Score/PS_10_Score.yy",},
     {"name":"Spr_office","order":20,"path":"sprites/Spr_office/Spr_office.yy",},
     {"name":"Snd_explode","order":1,"path":"sounds/Snd_explode/Snd_explode.yy",},
