@@ -142,6 +142,7 @@
     {"name":"inst_2842857C","path":"rooms/Rm_white_house/Rm_white_house.yy",},
     {"name":"inst_10E2382C","path":"rooms/Rm_white_house/Rm_white_house.yy",},
     {"name":"inst_58FBB1BB","path":"rooms/Rm_white_house/Rm_white_house.yy",},
+    {"name":"inst_6600CC2A","path":"rooms/Rm_white_house/Rm_white_house.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -332,6 +333,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_fly","path":"objects/Obj_fly/Obj_fly.yy",},"propertyId":{"name":"right_speed","path":"objects/Obj_fly/Obj_fly.yy",},"value":"0",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_fly","path":"objects/Obj_fly/Obj_fly.yy",},"propertyId":{"name":"left_speed","path":"objects/Obj_fly/Obj_fly.yy",},"value":"0",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":9024.0,"y":1472.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6600CC2A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_checkpoint","path":"objects/Obj_checkpoint/Obj_checkpoint.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":15.5,"x":6688.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_438103A7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":6816.0,"y":928.0,},

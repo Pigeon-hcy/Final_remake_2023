@@ -8,3 +8,7 @@ jump_time = true;
 player_direction = "R";
 //weather the player is actively bouncing off an object:
 player_bounce = false;
+
+respawn_x = 0;
+respawn_y = 0;
+checkpoint = false;
