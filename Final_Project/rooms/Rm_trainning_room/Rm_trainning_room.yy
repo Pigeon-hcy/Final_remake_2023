@@ -125,8 +125,6 @@
     {"name":"inst_18CB3DD8","path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},
     {"name":"inst_45592ADA","path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},
     {"name":"inst_23C7A3B6","path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},
-    {"name":"inst_22C7B3CA","path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},
-    {"name":"inst_44DB7A07","path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -144,8 +142,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_95E2C5B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Sleep_Enemy","path":"objects/Obj_Sleep_Enemy/Obj_Sleep_Enemy.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3904.0,"y":-96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65C5C723","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_shake","path":"objects/Obj_shake/Obj_shake.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":992.0,"y":1600.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_23C7A3B6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_nut_manager","path":"objects/obj_nut_manager/obj_nut_manager.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":64.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_22C7B3CA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_checkpoint","path":"objects/Obj_checkpoint/Obj_checkpoint.yy",},"properties":[],"rotation":0.0,"scaleX":5.0,"scaleY":7.0,"x":5984.0,"y":1408.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_44DB7A07","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_checkpoint","path":"objects/Obj_checkpoint/Obj_checkpoint.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":11.0,"x":7648.0,"y":1216.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Coin_and_enemy","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6F7562B6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_coin","path":"objects/Obj_coin/Obj_coin.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":1728.0,},

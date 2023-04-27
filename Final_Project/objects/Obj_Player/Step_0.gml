@@ -30,7 +30,7 @@ if(x_speed < 0 && !keyboard_check(ord("A")))
 }
 
 //fall on ground when player on the air
-if((place_meeting(x,y - y_speed,Obj_ground) || place_meeting(x,y - y_speed,Obj_plstform)) && y_speed <= 0 )
+if((place_meeting(x,y - y_speed,Obj_ground) || place_meeting(x,y - y_speed,Obj_plstform)) && y_speed <= 0)
 {
 	y_speed = 0;
 	jump_time = true;
@@ -46,16 +46,9 @@ if(place_meeting(x + x_speed,y,Obj_wall))
 
 if(y > room_height + 50)
 {
-	audio_stop_all();
-	
-	if(checkpoint)
-	{
-		x = respawn_x;
-		y = respawn_y;
-	}else
-	{
-		room_restart();
-	}
+	y_speed = 0;
+	x = x - 300
+	y = room_height /2
 }
 
 show_debug_message(player_bounce);
