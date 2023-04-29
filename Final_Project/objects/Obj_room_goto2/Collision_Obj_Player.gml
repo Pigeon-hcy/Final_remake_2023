@@ -1,2 +1,2 @@
 audio_stop_all();
-room_goto(Rm_white_house);
+room_goto(Rm_1);
