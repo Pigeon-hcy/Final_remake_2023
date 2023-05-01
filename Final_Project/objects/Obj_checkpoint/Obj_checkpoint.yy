@@ -27,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Spr_chase",
-    "path": "sprites/Spr_chase/Spr_chase.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": false,
 }

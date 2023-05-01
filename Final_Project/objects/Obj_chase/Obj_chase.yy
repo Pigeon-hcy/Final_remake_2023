@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_chase",
-    "path": "sprites/Spr_chase/Spr_chase.yy",
+    "name": "spr_chase",
+    "path": "sprites/spr_chase/spr_chase.yy",
   },
   "spriteMaskId": null,
   "visible": true,
