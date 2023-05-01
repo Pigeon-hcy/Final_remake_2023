@@ -80,6 +80,7 @@
     {"name":"Rm_win_screen","order":2,"path":"rooms/Rm_win_screen/Rm_win_screen.yy",},
     {"name":"Spr_Run","order":13,"path":"sprites/Spr_Run/Spr_Run.yy",},
     {"name":"Rm_trainning_room","order":1,"path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},
+    {"name":"ParticleSystem5","order":4,"path":"particles/ParticleSystem5/ParticleSystem5.yy",},
     {"name":"PS_Circle","order":2,"path":"particles/PS_Circle/PS_Circle.yy",},
     {"name":"Spr_enemy_notice","order":4,"path":"sprites/Spr_enemy_notice/Spr_enemy_notice.yy",},
     {"name":"fnt_fanglin_test","order":1,"path":"fonts/fnt_fanglin_test/fnt_fanglin_test.yy",},

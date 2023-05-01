@@ -110,6 +110,7 @@
     {"id":{"name":"Snd_enemy_hit","path":"sounds/Snd_enemy_hit/Snd_enemy_hit.yy",},},
     {"id":{"name":"Spr_Run","path":"sprites/Spr_Run/Spr_Run.yy",},},
     {"id":{"name":"Rm_trainning_room","path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},},
+    {"id":{"name":"ParticleSystem5","path":"particles/ParticleSystem5/ParticleSystem5.yy",},},
     {"id":{"name":"PS_Circle","path":"particles/PS_Circle/PS_Circle.yy",},},
     {"id":{"name":"Spr_platform","path":"sprites/Spr_platform/Spr_platform.yy",},},
     {"id":{"name":"Spr_enemy_notice","path":"sprites/Spr_enemy_notice/Spr_enemy_notice.yy",},},
