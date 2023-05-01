@@ -18,6 +18,7 @@
     {"name":"player","order":10,"path":"folders/Sprites/player.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"screens","order":7,"path":"folders/Rooms/screens.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Obj_Sleep_Enemy","order":5,"path":"objects/Obj_Sleep_Enemy/Obj_Sleep_Enemy.yy",},
@@ -59,8 +60,10 @@
     {"name":"Obj_admove","order":10,"path":"objects/Obj_admove/Obj_admove.yy",},
     {"name":"Spr_testtile","order":4,"path":"sprites/Spr_testtile/Spr_testtile.yy",},
     {"name":"Spr_jump","order":6,"path":"sprites/Spr_jump/Spr_jump.yy",},
+    {"name":"Rm_main_menu","order":1,"path":"rooms/Rm_main_menu/Rm_main_menu.yy",},
     {"name":"spr_bg_trainning_room","order":14,"path":"sprites/spr_bg_trainning_room/spr_bg_trainning_room.yy",},
     {"name":"Obj_nut_left","order":4,"path":"objects/Obj_nut_left/Obj_nut_left.yy",},
+    {"name":"Rm_win_screen","order":2,"path":"rooms/Rm_win_screen/Rm_win_screen.yy",},
     {"name":"Spr_Run","order":13,"path":"sprites/Spr_Run/Spr_Run.yy",},
     {"name":"Rm_trainning_room","order":1,"path":"rooms/Rm_trainning_room/Rm_trainning_room.yy",},
     {"name":"PS_Circle","order":2,"path":"particles/PS_Circle/PS_Circle.yy",},
