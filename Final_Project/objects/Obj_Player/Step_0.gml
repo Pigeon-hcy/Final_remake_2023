@@ -81,7 +81,21 @@ if(x_speed == 0) {
 	sprite_index = spr_player_run;
 	image_xscale = 1/6;
 	image_yscale = 1/6;
+	if(place_meeting(x,y - y_speed,Obj_ground) || place_meeting(x,y - y_speed,Obj_plstform)) {
+		image_speed = 7/10;
+	} else if(y_speed > 3) {
+		image_speed = 0;
+		image_index = 1;
+	} else if(y_speed >= -5) {
+		image_speed = 0;
+		image_index = 2;
+	} else if(y_speed <-3) {
+		image_speed = 0;
+		image_index = 3;
+	}
+	
 } else if(x_speed < 0) {
+	image_speed = 7/10;
 	sprite_index = spr_player_run;
 	image_xscale = -1/6;
 	image_yscale = 1/6
