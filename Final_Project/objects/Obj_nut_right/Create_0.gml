@@ -10,3 +10,6 @@ x_speed_rate = 0.2;
 self.part_system = part_system_create(PS_Start_Ps);
 
 life_time = 100;
+
+image_xscale=1/8
+image_yscale=1/8
