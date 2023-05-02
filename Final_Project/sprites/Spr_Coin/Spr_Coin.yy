@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Spr_Coin",
-  "bbox_bottom": 350,
+  "bbox_bottom": 380,
   "bbox_left": 12,
   "bbox_right": 264,
   "bbox_top": -150,
