@@ -302,7 +302,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_fly","path":"objects/Obj_fly/Obj_fly.yy",},"propertyId":{"name":"left_speed","path":"objects/Obj_fly/Obj_fly.yy",},"value":"0",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_fly","path":"objects/Obj_fly/Obj_fly.yy",},"propertyId":{"name":"left_time","path":"objects/Obj_fly/Obj_fly.yy",},"value":"9999",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_fly","path":"objects/Obj_fly/Obj_fly.yy",},"propertyId":{"name":"right_time","path":"objects/Obj_fly/Obj_fly.yy",},"value":"9999",},
-          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3040.0,"y":1248.0,},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2880.0,"y":1120.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_78C1C1E5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_fly","path":"objects/Obj_fly/Obj_fly.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_fly","path":"objects/Obj_fly/Obj_fly.yy",},"propertyId":{"name":"right_speed","path":"objects/Obj_fly/Obj_fly.yy",},"value":"0",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_fly","path":"objects/Obj_fly/Obj_fly.yy",},"propertyId":{"name":"left_speed","path":"objects/Obj_fly/Obj_fly.yy",},"value":"0",},

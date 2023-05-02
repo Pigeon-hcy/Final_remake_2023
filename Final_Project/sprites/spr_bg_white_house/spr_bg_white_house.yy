@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa4c09b3-fc3b-4d2c-a301-7869246e4023",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f6f8a33c-8cb5-4f6c-9922-291e63298e8f",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 768,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5f872270-2377-4ab6-a287-0596d43c2b08","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3ca3c52c-e8d7-4696-983b-efa45d8cc211","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"aa4c09b3-fc3b-4d2c-a301-7869246e4023","path":"sprites/spr_bg_white_house/spr_bg_white_house.yy",},},},"Disabled":false,"id":"3e9c6b45-1749-45e2-adfc-19fa54374f73","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f6f8a33c-8cb5-4f6c-9922-291e63298e8f","path":"sprites/spr_bg_white_house/spr_bg_white_house.yy",},},},"Disabled":false,"id":"8240070e-81b5-489c-bf0b-0b006f8e3317","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
