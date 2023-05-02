@@ -92,6 +92,8 @@
     {"id":{"name":"Rm_white_house_run","path":"rooms/Rm_white_house_run/Rm_white_house_run.yy",},},
     {"id":{"name":"Snd_jump","path":"sounds/Snd_jump/Snd_jump.yy",},},
     {"id":{"name":"obj_death_manager","path":"objects/obj_death_manager/obj_death_manager.yy",},},
+    {"id":{"name":"spr_whdoor","path":"sprites/spr_whdoor/spr_whdoor.yy",},},
+    {"id":{"name":"obj_whdoor","path":"objects/obj_whdoor/obj_whdoor.yy",},},
     {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},},
     {"id":{"name":"Obj_plstform","path":"objects/Obj_plstform/Obj_plstform.yy",},},
     {"id":{"name":"PS_Hit","path":"particles/PS_Hit/PS_Hit.yy",},},

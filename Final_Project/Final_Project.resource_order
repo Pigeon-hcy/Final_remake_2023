@@ -64,6 +64,8 @@
     {"name":"Rm_white_house_run","order":3,"path":"rooms/Rm_white_house_run/Rm_white_house_run.yy",},
     {"name":"Snd_jump","order":5,"path":"sounds/Snd_jump/Snd_jump.yy",},
     {"name":"obj_death_manager","order":1,"path":"objects/obj_death_manager/obj_death_manager.yy",},
+    {"name":"spr_whdoor","order":18,"path":"sprites/spr_whdoor/spr_whdoor.yy",},
+    {"name":"obj_whdoor","order":27,"path":"objects/obj_whdoor/obj_whdoor.yy",},
     {"name":"fnt_score","order":2,"path":"fonts/fnt_score/fnt_score.yy",},
     {"name":"Obj_plstform","order":2,"path":"objects/Obj_plstform/Obj_plstform.yy",},
     {"name":"Snd_throw","order":2,"path":"sounds/Snd_throw/Snd_throw.yy",},
