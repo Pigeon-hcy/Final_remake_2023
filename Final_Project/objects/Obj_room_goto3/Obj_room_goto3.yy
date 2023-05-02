@@ -25,11 +25,13 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"room_numb","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Rm_CG_01","varType":0,},
+  ],
   "solid": false,
   "spriteId": {
-    "name": "Spr_chase",
-    "path": "sprites/Spr_chase/Spr_chase.yy",
+    "name": "spr_scroll",
+    "path": "sprites/spr_scroll/spr_scroll.yy",
   },
   "spriteMaskId": null,
   "visible": false,

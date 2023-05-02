@@ -1,2 +1,1 @@
-audio_stop_all();
-room_goto(Rm_2);
+room_goto(Rm_win_screen);

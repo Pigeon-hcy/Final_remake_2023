@@ -30,9 +30,9 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "Spr_wall",
-    "path": "sprites/Spr_wall/Spr_wall.yy",
+    "name": "spr_whdoor",
+    "path": "sprites/spr_whdoor/spr_whdoor.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
