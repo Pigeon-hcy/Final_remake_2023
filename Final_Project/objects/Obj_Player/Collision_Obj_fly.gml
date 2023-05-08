@@ -16,3 +16,6 @@ if(x_speed = 0 && !player_bounce)
 		player_bounce = true;
 
 
+part_particles_create(self.part_system,x,y,PS_Circle,1);
+part_particles_create(self.part_system,x,y,PS_Hit,60);
+audio_play_sound(Snd_player_hurt,300,false);

@@ -12,3 +12,5 @@ player_bounce = false;
 respawn_x = 0;
 respawn_y = 0;
 checkpoint = false;
+
+self.part_system = part_system_create(PS_Start_Ps);

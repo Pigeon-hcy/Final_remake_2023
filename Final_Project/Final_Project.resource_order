@@ -23,6 +23,7 @@
     {"name":"Timelines","order":10,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Snd_player_hurt","order":9,"path":"sounds/Snd_player_hurt/Snd_player_hurt.yy",},
     {"name":"Obj_Sleep_Enemy","order":5,"path":"objects/Obj_Sleep_Enemy/Obj_Sleep_Enemy.yy",},
     {"name":"Obj_chase","order":15,"path":"objects/Obj_chase/Obj_chase.yy",},
     {"name":"Spr_wall","order":2,"path":"sprites/Spr_wall/Spr_wall.yy",},
@@ -51,7 +52,9 @@
     {"name":"Spr_admove","order":5,"path":"sprites/Spr_admove/Spr_admove.yy",},
     {"name":"Obj_ground","order":1,"path":"objects/Obj_ground/Obj_ground.yy",},
     {"name":"obj_nut_manager","order":14,"path":"objects/obj_nut_manager/obj_nut_manager.yy",},
+    {"name":"Snd_roar_higher","order":11,"path":"sounds/Snd_roar_higher/Snd_roar_higher.yy",},
     {"name":"Spr_enemy_attack","order":3,"path":"sprites/Spr_enemy_attack/Spr_enemy_attack.yy",},
+    {"name":"Snd_roar","order":10,"path":"sounds/Snd_roar/Snd_roar.yy",},
     {"name":"Snd_run","order":4,"path":"sounds/Snd_run/Snd_run.yy",},
     {"name":"obj_win_manager","order":2,"path":"objects/obj_win_manager/obj_win_manager.yy",},
     {"name":"spr_bg_menu_loop","order":2,"path":"sprites/spr_bg_menu_loop/spr_bg_menu_loop.yy",},
